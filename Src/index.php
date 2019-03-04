@@ -46,9 +46,14 @@
             transform: translateX(-50%);
         }
         article{
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: space-around;
             width: 370px;
-            height: 92px;
+            height: 112px;
             background-color: #d3d3d3;
+            border: 2px solid #b0b0b0;
         }
     </style>
 </head>
