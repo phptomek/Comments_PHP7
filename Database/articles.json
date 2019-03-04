@@ -1,0 +1,10 @@
+[
+{"type":"header","version":"4.8.4","comment":"Export to JSON plugin for PHPMyAdmin"},
+{"type":"database","name":"trening_blog"},
+{"type":"table","name":"articles","database":"trening_blog","data":
+[
+{"id":"1","title":"PHP7 Advice","content":"PHP7 Is the best language ;)","image":"https:\/\/bs-uploads.toptal.io\/blackfish-uploads\/skill_page\/content\/logo_file\/logo\/5652\/php-bc02cb4e2bb2210ffc291e43d672932a.png"},
+{"id":"6","title":"PHP7 - First steps","content":"Very Cool lang!","image":"https:\/\/bs-uploads.toptal.io\/blackfish-uploads\/skill_page\/content\/logo_file\/logo\/5652\/php-bc02cb4e2bb2210ffc291e43d672932a.png"}
+]
+}
+]

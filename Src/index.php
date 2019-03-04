@@ -37,7 +37,8 @@
             font-size: 22px;
         }
         button{
-            height: 22px;
+            height: 28px;
+            font-size: 22px;
         }
         .article--wrapper{
             position: absolute;
@@ -63,7 +64,7 @@
         <input type="text" name="title" id="title" placeholder="Title">
         <textarea name="content" id="content" cols="30" rows="10" placeholder="Description"></textarea>
         <input type="text" name="image" id="image" placeholder="Image Url">
-        <button type="submit" name="send">Send</button>
+        <button type="submit" name="send">POST</button>
     </div>
 </form>
 <div class="article--wrapper">
